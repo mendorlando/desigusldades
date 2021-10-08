@@ -1,4 +1,5 @@
-%inecuasion de primer grado
+%%inecuasion de primer grado
+%autores ORLANDO MENDOZA VALENTIN ,DIEGO CRUZ GARDUÑO
 syms x
 disp ('  inecuasiones de primer grado  ')
 disp ('x-8 < 15 ');
