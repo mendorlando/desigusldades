@@ -1,0 +1,12 @@
+%inecuasion de primer grado
+syms x
+disp ('  inecuasiones de primer grado  ')
+disp ('x-8 < 15 ');
+solve (x-8 < 15)
+x=-20:1:20;
+y=x-20;
+subplot(2,2,1);
+plot(x,y)
+xlabel('x');
+ylabel('-∞');
+title ('(-∞,20)')
