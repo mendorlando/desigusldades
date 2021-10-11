@@ -52,3 +52,4 @@ plot(x,y,'ro-')
 xlabel('x');
 ylabel('-oo');
 title('la inecuacion es');
+
