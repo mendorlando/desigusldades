@@ -8,7 +8,7 @@
 %Usage          :octave> /path/Resolucion de desigualdades 
 %Notes          :Requiere aplicación octave, usar su linea de comandos 
 
-
+:main
 p_numero1= 'Escribir la inecuacion en la forma general;= a x 2 + b + c ';
 p_numero2= 'Factorizar el lado izquierdo de la inecuacion '; 
 p_numero3= 'Hallar los intervalos de prueb ';
